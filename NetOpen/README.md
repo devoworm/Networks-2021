@@ -1,5 +1,5 @@
 ## Network Architectures for Growing Academic Open-Source
-Bradly Alicea <sup>1,2,3</sup>
+Bradly Alicea<sup>1,2,3</sup>   
 <sup>1</sup> Rokwire Initiative, University of Illinois Urbana-Champaign     
 <sup>2</sup> OpenWorm Foundation   
 <sup>3</sup> Orthogonal Research and Education Laboratory   
