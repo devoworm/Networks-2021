@@ -8,7 +8,7 @@ To see how deep learning architectures might make advances upon this, we will fo
 __References:__
 [1] Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., and Bengio, Y. (2014). Generative adversarial nets. Generative adversarial nets. arXiv, 1406.2661.
 
-[2] Deb, Mayukh (2020). Torch Dreams. link and Deb, Mainak (2020). DigitGAN. link
+[2] Deb, Mayukh (2020). [Torch Dreams](https://pypi.org/project/torch-dreams/) and Deb, Mainak (2020). [DigitGAN](https://github.com/Mainakdeb/digit-GAN).
 
 [3] Zenil, H. (2012). Irreducibility and Computational Equivalence: 10 years after Wolfram's "A New Kind of Science". Springer, Berlin.
 
