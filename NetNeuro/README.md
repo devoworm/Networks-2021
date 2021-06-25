@@ -37,3 +37,7 @@ __References:__
 [15] Marblestone, A.H., Wayne, G., and Kording, K. (2016). Towards an Integration of Deep Learning and Neuroscience. _Frontiers in Computational Neuroscience_, 10, 94.
 
 [16] Katyal, K., Parent, J., and Alicea, B. (2021). Connectionism, Complexity, and Living Systems: a comparison of Artificial and Biological Neural Networks. _arXiv_, 2103.15553.
+
+<P ALIGN=CENTER>
+  <IMG SRC="https://github.com/devoworm/Networks-2021/blob/main/NetNeuro/Neuromorphogenetic%20Patterns.png">
+</P>
