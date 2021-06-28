@@ -1,5 +1,5 @@
-[NetNeuro Satellite Session](https://netneurosci.github.io/networks2021satellite/), Networks 2021
-
+### [NetNeuro Satellite Session](https://netneurosci.github.io/networks2021satellite/), Networks 2021   
+[poster](https://github.com/devoworm/Networks-2021/blob/main/Media%20Assets/Neuromorphogenetic%20Patterns.png)
 
 ## Neuromorphogenetic Patterns and the Theory of Deep Learning
 Bradly Alicea, Mayukh Deb, Mainak Deb, Krishna Katyal, Jesse Parent  
