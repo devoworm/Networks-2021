@@ -1,4 +1,4 @@
-[NetNeuro Satellite Session](https://netneurosci.github.io/networks2021satellite/), Newworks 2021
+[NetNeuro Satellite Session](https://netneurosci.github.io/networks2021satellite/), Networks 2021
 
 
 ## Neuromorphogenetic Patterns and the Theory of Deep Learning
