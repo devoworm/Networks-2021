@@ -14,7 +14,7 @@ DevoWorm-Networks tie-ins.
 
 * structure (morphogenetic, heterogeneity).
 
-* divergent processes -- structure/function?
+* divergent processes -- structure/function? Developmental symmetry-breaking.
 
 DevoWorm promotion:
 
