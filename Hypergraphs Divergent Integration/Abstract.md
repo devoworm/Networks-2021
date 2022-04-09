@@ -1,2 +1,12 @@
-## Hypergraphs for Divergent Integration in Development
+## Hypergraphs Demonstrate Anastomoses During Divergent Integration
+
+During the development of an embryo, cells divide and differentiate, eventually forming tissues and physiological systems. This process has typically been characterized using tree-like structures, the most famous example being the lineage tree. The cells of an embryo can also be characterized as a complex network [1], and is useful in understanding phenomena such as intercellular signaling and geometric/spatial constraints. Furthermore, these embryo networks tend to diverge as cells differentiate, migrate, and form structures such as tissues and organs. The resulting functional and structural divergence is called divergent integration [2]. During divergent integration, components of the network diverge in both function and connectivity but retain a small number of connections while remaining part of the same system. But how do we characterize this process across time and, more importantly, across cell births, deaths, and respecification of cell fate? A hypergraph structure (Figure 1) will be used to graphically represent these processes, and provides a means to quantify these dynamics. 
+
+To demonstrate hypergraphs in a developmental context we will present a hypothetical embryogenetic hypergraph with the simplicity of C. elegans embryo but with the regulative potential of vertebrate embryos. Embryogenetic hypergraphs also represent the process of anastomosis. Anastomoses are cross-connections between subgraphs representing the differentiated subgraphs of an embryo network. These connections reveal exchanges of cells between subgraphs as they change identity from one functional cell category to another. This model of hypergraph exchange and subgraph partitioning can be further understood with the density-bifurcation model, which proposes a developmentally specific model of node attachment. This work is particularly relevant to building spatiotemporal representations of embryo dynamics.     
+
+### References
+[1] Alicea, B. and Gordon R. (2018). Cell Differentiation Processes as Spatial Networks: identifying four-dimensional structure in embryogenesis. BioSystems, 173, 235-246.  
+
+[2] Alicea, B. and Cialfi, D. Embryo Networks as Generative Divergent Integration. NetSci 2021.
+
 
